@@ -1,8 +1,4 @@
----
-
-````md
 # 🌦️ Qodex Weather Dashboard
-
 A modern React + Vite Weather Dashboard that displays real-time weather conditions and a 5-day forecast using the OpenWeatherMap API. Built with React, Vite, and clean component architecture.
 
 ---
@@ -116,8 +112,6 @@ WEATHER-DASHBOARD/
 ### Mobile View Forecast
 
 ![Mobile View Screenshot](screenshots/ss4.png)
-
-> *(Place your actual screenshots inside a `screenshots/` folder in the root of the repo)*
 
 ---
 
