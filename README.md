@@ -38,7 +38,7 @@ The folder structure is modular and scalable for future enhancements such as aut
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/Kamran-Riyaz/weather-dashboard.git
 cd weather-dashboard
 ````
 
